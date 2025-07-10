@@ -1,0 +1,21 @@
+# Prevent secrets from being tracked
+secrets.h
+
+# Arduino generated files
+*.bin
+*.elf
+*.hex
+*.pyc
+*.o
+*.a
+
+# VS Code workspace
+.vscode/
+
+# Arduino build folders (Arduino IDE is used)
+.build/
+.pio/
+
+# Backup files
+*~
+*.bak
