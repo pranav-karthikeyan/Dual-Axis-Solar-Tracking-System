@@ -1,27 +1,38 @@
 # Automated Dual-Axis Solar Tracking System
 
 ---
-
 ## Contributors
 
-<p align="center">
-  <a href="https://github.com/KRISSHANTH-R">
-    <img src="https://avatars.githubusercontent.com/u/175583154?v=4" width="80"/><br/>
-    <sub><b>KRISSHANTH R</b><br/>CB.EN.U4ELC22021</sub>
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/praveenkumarus">
-    <img src="https://avatars.githubusercontent.com/u/115538058?v=4" width="80"/><br/>
-    <sub><b>PRAVEENKUMAR U S</b><br/>CB.EN.U4ELC22056</sub>
-  </a> &nbsp;&nbsp;&nbsp;
-  <a>
-    <img src="https://github.com/adityathannasiappan.png?size=80" width="80"/><br/>
-    <sub><b>ADITYA THANNASIAPPAN</b><br/>CB.EN.U4ELC22061</sub>
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/pranav-karthikeyan">
-    <img src="https://avatars.githubusercontent.com/u/73694914?v=4" width="80"/><br/>
-    <sub><b>PRANAV KARTHIKEYAN</b><br/>CB.EN.U4ELC22062</sub>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/USPraveenkumar">
+        <img src="https://avatars.githubusercontent.com/u/115538058?v=4" width="100" height="100" style="border-radius:50%;" alt="Praveenkumar US"/>
+        <br />
+        <sub><b>Praveenkumar U S</b><br/>CB.EN.U4ELC22056</sub>
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/adityathannasiappan.png?size=100" width="100" height="100" style="border-radius:50%;" alt="Aditya Thannasiappan"/>
+      <br />
+      <sub><b>Aditya Thannasiappan</b><br/>CB.EN.U4ELC22061</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/KRISSHANTH-R">
+        <img src="https://avatars.githubusercontent.com/u/175583154?v=4" width="100" height="100" style="border-radius:50%;" alt="Krisshanth R"/>
+        <br />
+        <sub><b>Krisshanth R</b><br/>CB.EN.U4ELC22021</sub>
+      </a>
+    </td>
+        <td align="center">
+      <a href="https://github.com/pranav-karthikeyan">
+        <img src="https://avatars.githubusercontent.com/u/73694914?v=4" width="100" height="100" style="border-radius:50%;" alt="Pranav Karthikeyan"/>
+        <br />
+        <sub><b>Pranav Karthikeyan</b><br/>CB.EN.U4ELC22062</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
