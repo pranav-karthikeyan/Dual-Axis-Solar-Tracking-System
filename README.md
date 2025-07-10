@@ -13,7 +13,7 @@
       </a>
     </td>
     <td align="center">
-      <img src="https://github.com/adityathannasiappan.png?size=100" width="100" height="100" style="border-radius:50%;" alt="Aditya Thannasiappan"/>
+      <img src="https://avatars.githubusercontent.com/u/583231?v=4" width="100" height="100" style="border-radius:50%;" alt="Aditya Thannasiappan"/>
       <br />
       <sub><b>Aditya Thannasiappan</b><br/>CB.EN.U4ELC22061</sub>
     </td>
