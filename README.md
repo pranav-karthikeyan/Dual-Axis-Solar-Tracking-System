@@ -4,12 +4,24 @@
 
 ## Contributors
 
-| Name                         | Enrollment No        | GitHub Profile                                    |
-|------------------------------|---------------------|--------------------------------------------------|
-| [KRISSHANTH R](https://github.com/KRISSHANTH-R)           | CB.EN.U4ELC22021     | ![Krisshanth R](https://avatars.githubusercontent.com/u/175583154?v=4)       |
-| [PRAVEENKUMAR U S](https://github.com/praveenkumarus)   | CB.EN.U4ELC22056     | ![Praveen](https://avatars.githubusercontent.com/u/115538058?v=4)       |
-| [ADITYA THANNASIAPPAN] | CB.EN.U4ELC22061     | ![Aditya](https://github.com/adityathannasiappan.png?size=40)   |
-| [PRANAV KARTHIKEYAN](https://github.com/pranav-karthikeyan) | CB.EN.U4ELC22062     | ![Pranav](https://avatars.githubusercontent.com/u/73694914?v=4)    |
+<p align="center">
+  <a href="https://github.com/KRISSHANTH-R">
+    <img src="https://avatars.githubusercontent.com/u/175583154?v=4" width="80"/><br/>
+    <sub><b>KRISSHANTH R</b><br/>CB.EN.U4ELC22021</sub>
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/praveenkumarus">
+    <img src="https://avatars.githubusercontent.com/u/115538058?v=4" width="80"/><br/>
+    <sub><b>PRAVEENKUMAR U S</b><br/>CB.EN.U4ELC22056</sub>
+  </a> &nbsp;&nbsp;&nbsp;
+  <a>
+    <img src="https://github.com/adityathannasiappan.png?size=80" width="80"/><br/>
+    <sub><b>ADITYA THANNASIAPPAN</b><br/>CB.EN.U4ELC22061</sub>
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/pranav-karthikeyan">
+    <img src="https://avatars.githubusercontent.com/u/73694914?v=4" width="80"/><br/>
+    <sub><b>PRANAV KARTHIKEYAN</b><br/>CB.EN.U4ELC22062</sub>
+  </a>
+</p>
 
 ---
 
