@@ -1,10 +1,9 @@
+// ⚠️ Warning: Sensitive secrets.h is ignored to maintain the integrity
 // Solar panel efficiency simulation
 // Dual axis servo motor control
-// Team Members: Krisshanth, Praveen and Pranav
+// Team Members: Krisshanth, Praveen, Pranav, Aditya
 
-#define BLYNK_TEMPLATE_ID "TMPL30Uk-g0Y2"
-#define BLYNK_TEMPLATE_NAME "Solar tracking system"
-#define BLYNK_AUTH_TOKEN "jZE-TmHnuf1HbfnyDwqm-HbhpZK0tz_Y"
+#include "secrets.h"  // Contains Blynk & WiFi credentials (Censored for privacy)
 
 #include <ESP32Servo.h>
 #include <Wire.h>
@@ -42,10 +41,6 @@ const int ldrPinRight = 35;
 const int azimuthServoPin = 13;
 const int elevationServoPin = 12;
 
-// WiFi credentials
-const char *ssid = "Pranavs M35";
-const char *password = "morris mano";
-
 // Blynk Timer
 BlynkTimer timer;
 
@@ -61,7 +56,7 @@ const int threshold = 50;
 void sendSensorData() {
     float voltage = ina219.getBusVoltage_V();
     float current = abs(ina219.getCurrent_mA());
-    float power = abs(voltage * (current));
+    float power = abs(voltage * current);
 
     Blynk.virtualWrite(V0, voltage);
     Blynk.virtualWrite(V1, current);
@@ -195,3 +190,4 @@ void loop() {
     timer.run();
     delay(50);
 }
+
